@@ -1,7 +1,11 @@
 What happens when you initialize a repository? Why do you need to do it?
 
+It creates a file to track the commits. It tracks changes.
+
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
+
+Staging area is where we connect the files for commits. Repository is as a whole everything. The value to be able to track changes as group.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
